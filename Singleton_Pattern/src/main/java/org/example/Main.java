@@ -11,6 +11,5 @@ public class Main {
         Singleton object = Singleton.getSingleton("MongoDb");
         object.display();
 
-
     }
 }
